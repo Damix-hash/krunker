@@ -80,6 +80,7 @@ def unfollow():
 
     for button in unfollow_button:
         try:
+            time.sleep(2)
             driver.execute_script("arguments[0].scrollIntoView();", button)
             button.click()
         except Exception as e:
