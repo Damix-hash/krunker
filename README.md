@@ -1,6 +1,6 @@
 # krunker
 
-some krunker based python scripts im planning to make
+some krunker based python scripts im making for funs
 
 ## Requirements
 
