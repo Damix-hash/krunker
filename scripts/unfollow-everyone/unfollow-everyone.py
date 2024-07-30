@@ -6,7 +6,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from ChromedriverDownloader import * # type: ignore
 download_chromedriver("", "", latest_chromedriver(), False) # type: ignore
 
-print("\nRunning giveaway_joiner.py...\n")
+print("\nRunning unfollow-everyone.py...\n")
 
 import time
 import json
