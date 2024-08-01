@@ -1,3 +1,11 @@
+'''
+Bible-bot.py Made By Damix
+
+TODO:
+- Make so the popup after detecting it message dissapeared won't crash the app
+
+'''
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
