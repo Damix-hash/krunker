@@ -116,7 +116,7 @@ def main():
 
             while True:
                 msg = random.choice(quotes)
-                send(msg.replace("god", "G0d"))
+                send(msg)
 
         except Exception as e:
                 print(e)
