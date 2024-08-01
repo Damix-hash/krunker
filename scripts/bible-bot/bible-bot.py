@@ -1,5 +1,6 @@
 '''
 Bible-bot.py Made By Damix
+https://github.com/Damix-hash
 
 TODO:
 - Make so the popup after detecting it message dissapeared won't crash the app
