@@ -1,3 +1,12 @@
+'''
+Unfollow-everyone.py.py Made By Damix
+https://github.com/Damix-hash
+
+TODO:
+- Nothing
+
+'''
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
